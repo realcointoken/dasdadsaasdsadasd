@@ -16,7 +16,7 @@
       let web3RefreshRate = 1000 * 60 * 5;
 
       // this is the token address not the pair address
-      let contractAddress = '0x5E9280d53F28281Ce098C8F64e49F5f5DC9Ea185';
+      let contractAddress = '56464465';
       // this is the wallet that holds the coins
       let exchangeWalletAddress = '0x9781dbe0786e763ee15ad6ffd8157f0db8a0f985';
       // this is the address for pancake factory
